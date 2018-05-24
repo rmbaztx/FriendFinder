@@ -1,0 +1,1 @@
+// friends.js for Friend Finder
